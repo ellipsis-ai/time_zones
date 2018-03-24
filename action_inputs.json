@@ -1,0 +1,31 @@
+[ {
+  "exportId" : "f4oCsCAmQ4mr2PvmdAOadg",
+  "name" : "tzToOutput",
+  "paramType" : {
+    "exportId" : "fsxdNQ40QpipzignBX67-A",
+    "name" : "Timezone"
+  },
+  "question" : "I can convert your team time zone to another one automatically. What time zone would you like me to convert to? (I'll remember for next time, or say \"...stop\" if you don't want to answer this now.)",
+  "isSavedForTeam" : true,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "itbktvq6RkuTQFGGPEciRQ",
+  "name" : "time",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Enter a time of day with an optional time zone, e.g. `12:00pm Eastern`.",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "m-5dp7x7TeC4mkJ6CsvV5w",
+  "name" : "place",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For what place do you want to know the time?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]
