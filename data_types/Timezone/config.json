@@ -2,7 +2,9 @@
   "exportId" : "fsxdNQ40QpipzignBX67-A",
   "name" : "Timezone",
   "forcePrivateResponse" : false,
+  "canBeMemoized" : false,
   "isDataType" : true,
+  "isTest" : false,
   "dataTypeConfig" : {
     "fields" : [ ],
     "usesCode" : true
