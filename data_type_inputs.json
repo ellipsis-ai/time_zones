@@ -5,7 +5,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `searchQuery`?",
+  "question" : "Enter the name of city or time zone:",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 } ]

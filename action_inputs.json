@@ -5,7 +5,7 @@
     "exportId" : "fsxdNQ40QpipzignBX67-A",
     "name" : "Timezone"
   },
-  "question" : "I can convert your team time zone to another one automatically. What time zone would you like me to convert to? (I'll remember for next time, or say \"...stop\" if you don't want to answer this now.)",
+  "question" : "I can convert your team time zone to another one automatically. What is the alternate time zone you'd like me to convert to? (I'll remember for next time, or say \"...stop\" if you don't want to answer this now.)",
   "isSavedForTeam" : true,
   "isSavedForUser" : false
 }, {
@@ -15,7 +15,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "Enter a time of day with an optional time zone, e.g. `12:00pm Eastern`.",
+  "question" : "Enter a time of day with a time zone, e.g. `12:00pm Eastern`.",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
