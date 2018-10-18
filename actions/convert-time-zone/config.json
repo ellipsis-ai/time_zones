@@ -1,7 +1,7 @@
 {
   "exportId" : "6NVZOxnnSfqaeHP6epVkew",
   "name" : "convert-time-zone",
-  "forcePrivateResponse" : false,
+  "responseTypeId" : "Normal",
   "canBeMemoized" : false,
   "isDataType" : false,
   "isTest" : false

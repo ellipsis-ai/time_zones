@@ -1,7 +1,7 @@
 {
   "exportId" : "fsxdNQ40QpipzignBX67-A",
   "name" : "Timezone",
-  "forcePrivateResponse" : false,
+  "responseTypeId" : "Normal",
   "canBeMemoized" : false,
   "isDataType" : true,
   "isTest" : false,
